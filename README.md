@@ -4,6 +4,7 @@
 
 Build require to cross build to any darwin platform.
 
+New support for multiple architectures.  See <https://github.com/gmeeker/conan-multi-build-hook>.
 
 ## Setup
 
